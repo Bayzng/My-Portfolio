@@ -188,7 +188,7 @@ const projects = [
   {
     name: "GameSpotter",
     description:
-      "A food app is a software application designed to help users discover, order, or prepare food. It typically provides various features and functionalities related to food.",
+      "GameSpotter is a platform designed to connect game developers, testers, and enthusiasts in a single ecosystem, The app allows game developers to post their games",
     tags: [
       {
         name: "react",
@@ -209,7 +209,7 @@ const projects = [
   {
     name: "Dec. ArtMarketplace",
     description:
-      "I am a creative developer in creating a well-organized and visually appealing portfolio, website and application development latest programming languages",
+      "I have developed an ArtMarketplace app, a dynamic platform where artists can showcase and sell their work directly to a global audience",
     tags: [
       {
         name: "react",
@@ -221,6 +221,10 @@ const projects = [
       },
       {
         name: "scss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "solidity",
         color: "pink-text-gradient",
       },
     ],
